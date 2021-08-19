@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>call.png</file>
+        <file>closedoor.png</file>
+        <file>display.png</file>
+        <file>door1.png</file>
+        <file>door2.png</file>
+        <file>doorcolor2.png</file>
+        <file>down.png</file>
+        <file>down3.png</file>
+        <file>opendoor.png</file>
+        <file>up.png</file>
+        <file>up3.png</file>
+        <file>doorcolor1.png</file>
+    </qresource>
+</RCC>
